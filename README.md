@@ -1,4 +1,4 @@
-<img style="margin-right: 30px " width="800" height="500" src="https://raw.githubusercontent.com/Tuhin4042/resource/main/img/ML_background.jpg">
+<img style="margin-right: 30px " width="800" height="500" src="https://github.com/Tuhin4042/resource/blob/main/machine-1.jpg">
 
 # Machine-Learning
 Machine learning (ML) is a subset of artificial intelligence (AI) that enables computers to learn and make decisions or predictions without being explicitly programmed. Instead of following hard-coded instructions, ML systems are designed to identify patterns and make inferences based on data.
