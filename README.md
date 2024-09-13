@@ -4,13 +4,13 @@ Machine learning (ML) is a subset of artificial intelligence (AI) that enables c
 ## There are three main types of machine learning:
 
 
-## Supervised Learning:  
-The model is trained on labeled data (where the correct output is known), and it learns to map inputs to outputs (e.g., predicting house prices).
+### Supervised Learning:  
+  The model is trained on labeled data (where the correct output is known), and it learns to map inputs to outputs (e.g., predicting house prices).
 
-## Unsupervised Learning: 
-The model is given data without labels and must find hidden patterns or groupings (e.g., customer segmentation).
+### Unsupervised Learning: 
+  The model is given data without labels and must find hidden patterns or groupings (e.g., customer segmentation).
 
 ### Reinforcement Learning: 
-The model learns by interacting with an environment, receiving feedback based on actions taken, and aiming to maximize a reward over time (e.g., game playing or robotics).
+  The model learns by interacting with an environment, receiving feedback based on actions taken, and aiming to maximize a reward over time (e.g., game playing or robotics).
 
 
