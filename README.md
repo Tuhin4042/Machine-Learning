@@ -7,7 +7,6 @@ Machine learning (ML) is a subset of artificial intelligence (AI) that enables c
 
 ### Supervised Learning:  
   The model is trained on labeled data (where the correct output is known), and it learns to map inputs to outputs (e.g., predicting house prices).
-  <a href="https://github.com/Tuhin4042/Machine-Learning/tree/main/Supervised%20Learning">See Code</a>
 
 ### Unsupervised Learning: 
   The model is given data without labels and must find hidden patterns or groupings (e.g., customer segmentation).
