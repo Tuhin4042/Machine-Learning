@@ -1,4 +1,4 @@
-<img style="margin-right: 30px " width="800" height="800" src="https://github.com/Tuhin4042/resource/blob/main/Visualization.png">
+<img style="margin-right: 30px " width="500" height="500" src="https://github.com/Tuhin4042/resource/blob/main/Visualization.jpg">
 # What is Data Visualization?
 Data visualization is the graphical representation of data and information using visual elements like charts, graphs, maps, and diagrams. Its purpose is to make complex data more accessible, understandable, and usable by uncovering patterns, trends, and outliers. Visualizations can help quickly grasp insights and make data-driven decisions.
 
