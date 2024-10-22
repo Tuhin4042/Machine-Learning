@@ -1,7 +1,7 @@
 <img style="margin-right: 30px " width="700" height="350" src="https://github.com/Tuhin4042/resource/blob/main/outlier.jpg-">
 
-# What is Pandas? 
-Pandas is an open-source library in Python that provides powerful, flexible data structures and data analysis tools. It is widely used for data manipulation, exploration, and analysis in various fields, including data science, statistics, finance, and machine learning.
+# Outlier Handling 
+Outlier handling refers to the process of identifying, managing, and possibly removing outliers from a dataset to improve the performance and accuracy of models or analyses. Outliers are data points that significantly deviate from other observations in the dataset and can arise due to various reasons such as measurement errors, variability in the data.
 # Some of its key features:
 
 - ### Data Manipulation
