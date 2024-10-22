@@ -11,12 +11,12 @@ Outlier handling refers to the process of identifying, managing, and possibly re
 
 # Why Outliers Are Important?
 
-- #### Data Errors
-- Sometimes, outliers are the result of errors in data collection or entry. Identifying these can help improve data quality.
+- ### Data Errors
+  Sometimes, outliers are the result of errors in data collection or entry. Identifying these can help improve data quality.
 - ### Model Influence
-- Outliers can have a significant impact on statistical measures like mean and standard deviation, and they can heavily influence models that are sensitive to extreme values, such as linear 
+  Outliers can have a significant impact on statistical measures like mean and standard deviation, and they can heavily influence models that are sensitive to extreme values, such as linear 
   regression.
 - ### Insight into Variability
-- Outliers may represent high variability in the data and could be valuable in understanding underlying processes or trends.
+  Outliers may represent high variability in the data and could be valuable in understanding underlying processes or trends.
 
 
