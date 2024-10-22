@@ -20,7 +20,7 @@
 - ### Insight into Variability
     Outliers may represent high variability in the data and could be valuable in understanding underlying processes or trends.
 
-  ## When We Use Outlier Handling?
+## When We Use Outlier Handling?
 
 - ### Before Data Modeling
 - ### When Data Quality Issues Are Suspected
