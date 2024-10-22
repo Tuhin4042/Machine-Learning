@@ -1,4 +1,4 @@
-<img style="margin-right: 30px " width="800" height="450" src="https://github.com/Tuhin4042/resource/blob/main/outlier.jpg">
+<img style="margin-right: 30px " width="900" height="550" src="https://github.com/Tuhin4042/resource/blob/main/outlier.jpg">
 
 # Outlier Handling 
 Outlier handling refers to the process of identifying, managing, and possibly removing outliers from a dataset to improve the performance and accuracy of models or analyses. Outliers are data points that significantly deviate from other observations in the dataset and can arise due to various reasons such as measurement errors, variability in the data.
