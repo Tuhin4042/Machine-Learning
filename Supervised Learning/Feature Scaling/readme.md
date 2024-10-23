@@ -7,7 +7,8 @@
 ## Why Feature Scaling is Important:
 
 - ### Improved Model Performance:
- Algorithms that compute distances (like k-NN, SVM, or logistic regression) or those that rely on gradient descent (e.g., neural networks) can be heavily influenced by the scale of the features. If one feature has a much larger range than others, it can dominate the learning process.
+   Algorithms that compute distances (like k-NN, SVM, or logistic regression) or those that rely on gradient descent (e.g., neural networks) can be heavily influenced by the scale of the features. 
+   If one feature has a much larger range than others, it can dominate the learning process.
 - ### Faster Convergence:
   In models like neural networks or linear regression, large feature values can result in larger gradients, which may cause the model to overshoot the optimal solution, slowing down convergence during training.
 - ### Equal Treatment of Features:
