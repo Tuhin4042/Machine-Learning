@@ -1,4 +1,4 @@
-<img style="margin-right: 30px " width="900" height="550" src="https://github.com/Tuhin4042/resource/blob/main/outlier.jpg">
+<img style="margin-right: 30px " width="900" height="550" src="https://github.com/Tuhin4042/resource/blob/main/scaling.png">
 
 # Feature scaling 
   Feature scaling is the process of transforming the features (variables) in your dataset so that they have a similar range or distribution. It ensures that no single feature disproportionately 
