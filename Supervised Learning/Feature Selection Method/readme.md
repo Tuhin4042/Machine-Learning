@@ -34,4 +34,5 @@
 
 ---
 
-**Feature selection** is a crucial step in the machine learning pipeline that can significantly enhance model performance, interpretability, and computational efficiency. By choosing the right features, you ensure that your model is robust and capable of making accurate predictions.
+**Feature selection** is a crucial step in the machine learning pipeline that can significantly enhance model performance, interpretability, and computational efficiency. By choosing the right features, you ensure that your model is robust and capable of making accurate predictions.<span style="color:red;">This text is red.</span>
+
