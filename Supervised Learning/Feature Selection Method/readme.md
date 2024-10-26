@@ -25,13 +25,13 @@
 ## Common Feature Selection Methods
 
 1. **Filter Methods**:
-   - Evaluate features based on statistical measures and select those that meet a certain threshold. Examples include Chi-Square test, correlation coefficients, and mutual information.
+   - Evaluate features based on statistical measures and select those that meet a certain threshold. Examples include **Chi-Square test**, correlation coefficients, and mutual information.
 
 2. **Wrapper Methods**:
-   - Use a predictive model to evaluate combinations of features and select the best-performing subset. Techniques like Recursive Feature Elimination (RFE) are examples.
+   - Use a predictive model to evaluate combinations of features and select the best-performing subset. Techniques like **Recursive Feature Elimination (RFE)** are examples.
 
 3. **Embedded Methods**:
-   - Perform feature selection as part of the model training process. For example, Lasso regression incorporates feature selection by applying a penalty to the coefficients.
+   - Perform feature selection as part of the model training process. For example, **Lasso regression** incorporates feature selection by applying a penalty to the coefficients.
 
 ---
 
