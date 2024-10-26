@@ -1,17 +1,16 @@
-
 ## What is Feature Selection?
 
-**Feature selection** is the process of identifying and selecting a subset of relevant features (variables, predictors) from a larger set of available features in a dataset. It aims to improve the performance of machine learning models by retaining only the most informative features and removing redundant or irrelevant ones.
+**Feature selection** is the process of identifying and selecting a subset of relevant features (*variables, predictors*) from a larger set of available features in a dataset. It aims to improve the performance of machine learning models by retaining only the most informative features and removing redundant or irrelevant ones.
 
 ### Why is Feature Selection Required?
 
 1. **Improves Model Performance**:
    - Removing irrelevant or noisy features can lead to more accurate models, as the model can focus on the most significant data points.
-   - It reduces the risk of overfitting, where the model learns the noise in the training data instead of the underlying patterns.
+   - It reduces the risk of **overfitting**, where the model learns the noise in the training data instead of the underlying patterns.
 
 2. **Reduces Complexity**:
    - Fewer features lead to simpler models that are easier to understand and interpret.
-   - It decreases the computational cost and time required for training the model, making the process more efficient.
+   - It decreases the **computational cost** and time required for training the model, making the process more efficient.
 
 3. **Enhances Generalization**:
    - By eliminating less relevant features, models can generalize better to unseen data, improving their performance in real-world applications.
@@ -35,5 +34,4 @@
 
 ---
 
-Feature selection is a crucial step in the machine learning pipeline that can significantly enhance model performance, interpretability, and computational efficiency. By choosing the right features, you ensure that your model is robust and capable of making accurate predictions.
-
+**Feature selection** is a crucial step in the machine learning pipeline that can significantly enhance model performance, interpretability, and computational efficiency. By choosing the right features, you ensure that your model is robust and capable of making accurate predictions.
