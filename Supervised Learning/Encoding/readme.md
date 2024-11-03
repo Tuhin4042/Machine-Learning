@@ -2,7 +2,7 @@
 
 # What is Encoding?
 
-**Encoding** is a crucial process in data science and machine learning, used to transform categorical data into numerical formats that models can interpret and process. Encoding techniques such as **Label Encoding**, **Ordinal Encoding**, and **One-Hot Encoding** are commonly applied when working with categorical data to prepare it for machine learning algorithms.
+**Encoding** is a crucial process in data science and machine learning, used to transform categorical data into numerical formats that models can interpret and process. Encoding is indeed a part of feature engineering. Encoding techniques such as **Label Encoding**, **Ordinal Encoding**, and **One-Hot Encoding** are commonly applied when working with categorical data to prepare it for machine learning algorithms.
 
 ## Key Encoding Techniques
 
