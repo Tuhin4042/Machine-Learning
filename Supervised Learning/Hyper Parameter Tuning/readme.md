@@ -22,25 +22,4 @@ Uses probabilistic models to predict performance and select hyperparameters inte
 ### 4. **Gradient-Based Optimization**  
 Optimizes hyperparameters by calculating gradients, typically used in deep learning frameworks.  
 
-### 5. **Automated Tuning (e.g., Hyperopt, Optuna)**  
-Uses specialized libraries to automate the search for optimal hyperparameters efficiently.  
-
 ---
-
-## Tools and Frameworks  
-- **Python**: Primary programming language for the implementation.  
-- **Libraries**:  
-  - Scikit-learn  
-  - TensorFlow/Keras  
-  - Optuna  
-  - Hyperopt  
-
----
-
-## How to Use This Repository  
-
-### 1. Clone the Repository  
-```bash  
-git clone https://github.com/yourusername/hyperparameter-tuning  
-cd hyperparameter-tuning  
-
