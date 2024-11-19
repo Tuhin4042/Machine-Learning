@@ -9,17 +9,34 @@ Hyperparameter tuning refers to the process of selecting the best configuration 
 
 ---
 
-## Types of Hyperparameter Tuning  
+## Types of Hyperparameter Tuning and When to Use Them  
+
 ### 1. **Grid Search**  
-A systematic, exhaustive search over a predefined hyperparameter space. Each combination is evaluated, making it computationally expensive for large spaces.  
+**Use When**:  
+- You have a small, well-defined search space.  
+- Computational resources are not a constraint.  
+- Exhaustive search for the best parameters is essential for your problem.  
+
+**Example**: Tuning `C` and `gamma` for an SVM on a small dataset.  
+
+---
 
 ### 2. **Random Search**  
-Randomly samples hyperparameters within the search space. It is faster than Grid Search and often finds good solutions.  
+**Use When**:  
+- The search space is large or continuous.  
+- You want faster results compared to Grid Search.  
+- A good-enough solution is acceptable without testing every combination.  
+
+**Example**: Tuning hyperparameters for a deep learning model where the parameter space is vast.  
+
+---
 
 ### 3. **Bayesian Optimization**  
-Uses probabilistic models to predict performance and select hyperparameters intelligently, balancing exploration and exploitation.  
+**Use When**:  
+- You want to balance speed and accuracy in finding the best hyperparameters.  
+- The tuning process needs to intelligently prioritize promising hyperparameters.  
+- Computational cost for evaluating each configuration is high.  
 
-### 4. **Gradient-Based Optimization**  
-Optimizes hyperparameters by calculating gradients, typically used in deep learning frameworks.  
+**Example**: Optimizing hyperparameters for expensive-to-train models like XGBoost or deep neural networks.  
 
 ---
