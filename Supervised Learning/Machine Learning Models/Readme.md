@@ -25,7 +25,7 @@ Supervised learning is a type of machine learning where the model is trained on 
    - **K-Nearest Neighbors (KNN)**: Classifies data points based on the majority class of their nearest neighbors.
    - **Support Vector Machines (SVM)**: Finds the optimal boundary that separates classes in high-dimensional spaces.
    - **Decision Trees**: Uses a tree-like structure to make decisions based on feature values.
-   - **Random Forests**: Combines multiple decision trees to improve accuracy and reduce overfitting.
+   - **Random Forests**: Combines multiple decision trees to improve accuracy and reduce overfitting. e.t.c
 
 ---
 
