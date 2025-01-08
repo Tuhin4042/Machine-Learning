@@ -37,11 +37,5 @@ Supervised learning is a type of machine learning where the model is trained on 
 - **Transportation**: Traffic prediction and autonomous vehicles.
 - **Marketing**: Customer segmentation and campaign optimization.
 
----
 
-## How to Use This Repository
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
 
