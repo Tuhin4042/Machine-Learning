@@ -17,7 +17,7 @@ Machine learning models are used to address diverse challenges, such as:
   - **Logistic Regression**: Binary classification (e.g., spam vs. not spam).  
   - **Decision Trees**: Decision-based predictions (e.g., diagnosing diseases).  
   - **Random Forests**: Ensemble method for improved accuracy (e.g., fraud detection).  
-  - **Support Vector Machines (SVM)**: Effective for classification tasks (e.g., image recognition). 
+  - **Support Vector Machines (SVM)**: Effective for classification tasks (e.g., image recognition) etc.
 
 ---
 ## Requirements  
