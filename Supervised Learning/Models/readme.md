@@ -17,15 +17,7 @@ Machine learning models are used to address diverse challenges, such as:
   - **Logistic Regression**: Binary classification (e.g., spam vs. not spam).  
   - **Decision Trees**: Decision-based predictions (e.g., diagnosing diseases).  
   - **Random Forests**: Ensemble method for improved accuracy (e.g., fraud detection).  
-  - **Support Vector Machines (SVM)**: Effective for classification tasks (e.g., image recognition).  
-
----
-
-## How to Use This Repository  
-
-1. **Explore Model Descriptions**: Learn about the types of machine learning models and their applications.  
-2. **Code Implementations**: Visit the `/src` folder for Python implementations of supervised learning models.  
-3. **Run Examples**: Follow instructions in the `examples/` folder to run simple machine learning pipelines.  
+  - **Support Vector Machines (SVM)**: Effective for classification tasks (e.g., image recognition). 
 
 ---
 ## Requirements  
