@@ -54,7 +54,3 @@ To run this project, ensure you have the following:
   - `matplotlib`  
   - `seaborn`  
 
-Install dependencies with:  
-```bash
-pip install -r requirements.txt
-
